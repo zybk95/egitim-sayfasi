@@ -509,7 +509,10 @@ p:last-child {
     background-color: rgba(0, 100, 0, 0.6); }
   #tm-section-3 {
     background-image: none;
-    background-color: rgba(139, 0, 0, 0.8); } }
+    background-color: rgba(139, 0, 0, 0.8); }
+  body {
+    padding-left: 0px;
+    padding-right: 0px; } }
 
 .siteye-git {
   color: white; }
